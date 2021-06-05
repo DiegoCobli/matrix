@@ -7,7 +7,7 @@
   "env": {
     "GOOGLE_CLIENT_ID": {
       "description": "Google Client Id to the OAuth authentication",
-      "value": "xxxxxxx.apps.googleusercontent.com"
+      "value": "534886607048-mlhe0clfqppo2lj2b6egkcl88j735us9.apps.googleusercontent.com"
     },
     "GOOGLE_SECRET": {
       "description": "Google Secret to the OAuth authentication",
