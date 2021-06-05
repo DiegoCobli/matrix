@@ -11,15 +11,15 @@
     },
     "GOOGLE_SECRET": {
       "description": "Google Secret to the OAuth authentication",
-      "value": "gXXXXXXXXXXXXXXss"
+      "value": "NOJWkaA2fR5uK88hPoKk0EXE"
     },
     "GOOGLE_CALLBACK_URL": {
       "description": "The callback Url to the OAuth authentication",
-      "value": "https://${app.name}.herokuapp.com/auth/google/callback"
+      "value": "https://cobloffice.herokuapp.com/auth/google/callback"
     },
     "COOKIE_SESSION_SECRET": {
       "description": "The secret of session",
-      "value": "my-matrix-session"
+      "value": "cobli"
     },
     "COOKIE_SESSION_MAX_AGE": {
       "description": "The Session duration",
@@ -27,7 +27,7 @@
     },
     "WHITELIST_DOMAINS": {
       "description": "The list of valid email domains to enter in matrix",
-      "value": "[]"
+      "value": "[cobli.co]"
     },
     "ENFORCE_SSL": {
       "description": "If you running in HTTPS this variable forces redirect to HTTPS when user access with HTTP",
